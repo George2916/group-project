@@ -1,0 +1,164 @@
+/*colorscheme
+blue= #00A8E8
+green= #3DCCC7
+lighter green = #68D8D6
+lighter blue = #9CEAEF
+pale bluegeen= #C4FFF9
+text color = #0B4F6C
+*/
+
+/*Style for all pages*/
+.container {
+    /*border: 1px dashed #FFC0CB;*/
+    width: 100%
+    margin: auto;
+}
+.header {
+    background-color: ;
+    text-align: center;
+    font-family: 'Wendy One', sans-serif;
+    color: #00A8E8;
+}
+.header h1 {
+    font-family:'Wendy One', sans-serif;
+    font-size: 44px;
+}
+
+.nav {
+    background-color: #;
+    font-family: 'Wendy One', sans-serif;
+    text-align: center;
+    color: #0B4F6C;
+}
+.nav li {
+    display: inline-block;
+    background-color: #9CEAEF;
+    padding: 5px 20px;
+    
+}
+.nav a {
+    text-decoration: none;
+    color: #0B4F6C;
+}
+.nav li:hover {
+    background-color: #C4FFF9;
+}
+.footer {
+    background-color: #C4FFF9;
+   text-align: center;
+   color: #0B4F6C;
+   font-family: 'Wendy One', sans-serif;
+}
+
+/*This is the style for the index page */
+.side {
+    background-color:;
+    padding-top: 60px;
+    vertical-align: top;
+    width: 29%;
+    height: 400px;
+    display: inline-block;
+    color: #00A8E8;
+    font-family: 'Wendy One', sans-serif;
+}
+.main {
+    background-color: #;
+    top: 60px;
+    left: 400px;
+    width: 70%;
+    height: 410px;
+    margin-bottom: 0px;
+    display: inline-block;
+    color: #3DCCC7;
+    font-family: 'Wendy One', sans-serif;
+}
+.main li {
+    text-align: center;
+    display: inline-block;
+    padding:10px 40px;
+}
+/*This is the style for the supplies page*/
+.mainsupplies{
+    background-color: #C4FFF9;
+    top: 60px;
+    left: 600px;
+    width: 70%;
+    height: 870px;
+    margin-bottom: 0px;
+    display: inline-block;
+}
+
+.sidesupplies{
+    background-color:#00A8E8;
+    vertical-align: top;
+    width: 29%;
+    height: 870px;
+    display: inline-block;
+}
+
+
+
+.supplies {
+    padding-left: 9px;
+   width: 32%;
+}
+
+/*THis is the style for the services page*/
+
+.sideoffers {
+    background-color:#C4FFF9;
+    vertical-align: top;
+    width: 18%;
+    height: 870px;
+    display: inline-block;
+    font-family: 'Wendy One', sans-serif;
+   
+}
+    
+.petservices { 
+    top: 60px;
+    left: 400px;
+    width: 70%;
+    height: 870px;
+    margin-bottom: 0px;
+    display: inline-block;
+    font-family: 'Wendy One', sans-serif;
+   
+    
+    /*text-align: center;
+    display: inline-block;
+    padding: 5px 20px;*/
+}
+
+#services {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+ div img {box-shadow: 10px 10px 5px #888888;
+}
+
+/*THis is the style for the about page*/
+
+.sideabout{
+    background-color:;
+    padding-right: 20px;
+    vertical-align: top;
+    width: 28%;
+    height: 400px;
+    display: inline-block;
+    color: #0B4F6C;
+    font-family: 'Wendy One', sans-serif;
+}
+
+.mainabout{
+    background-color: #;
+    top: 60px;
+    left: 1300px;
+    width: 70%;
+    height: 410px;
+    margin-bottom: 0px;
+    display: inline-block;
+    color: #0B4F6C;
+    font-family: 'Wendy One', sans-serif;
+}
